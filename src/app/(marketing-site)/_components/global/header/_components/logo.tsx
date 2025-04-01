@@ -28,7 +28,7 @@ export default function Logo() {
         className="flex items-center gap-2 cursor-pointer hover:opacity-80 transition-opacity duration-300"
       >
         <Image 
-          src="/firestorm_logo.svg" 
+          src="/firestorm-logo.svg" 
           alt="Firestorm.js" 
           width={32} 
           height={32}
