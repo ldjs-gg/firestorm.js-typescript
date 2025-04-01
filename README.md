@@ -26,7 +26,7 @@ A modern SaaS starter template with Next.js, Firebase, and Stripe integration.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/firestorm.js.git
+git clone https://github.com/yourusername/firestorm.js-typescript.git
 cd firestorm.js
 ```
 
